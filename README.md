@@ -4,4 +4,5 @@
 Faris Alnahdi
 
 1935595
-Screenshot of the Mail
+
+Screenshot of the Mail are included
